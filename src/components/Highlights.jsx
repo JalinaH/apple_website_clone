@@ -2,9 +2,9 @@ import React from 'react'
 
 function Highlights() {
   return (
-    <div>
-      
-    </div>
+    <section id='highlights' className='w-screen overflow-hidden'>
+
+    </section>
   )
 }
 
